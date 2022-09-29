@@ -1,12 +1,10 @@
 ## Jennifer Jiang
 
-[Picture of my corgi in a car](winniecar.jpg)
-
 #### About Me
 I'm a third year **Math-CS major** at UC San Diego, originally from the Bay Area. 
 
 #### Fun Facts
-1. I have a corgi named Winnie! 
+1. I have a corgi named Winnie! [Picture of my corgi in a car](winniecar.jpg)
 2. I enjoy playing a variety of online games with my friends, which I got more into after I built my first PC during quarantine. Some games include:
    - Valorant
    - Minecraft
