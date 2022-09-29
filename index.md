@@ -26,12 +26,12 @@ public class HelloWorld {
 You can find the README for this repository [here](README.md).
 
 This page uses...
-[x] Headings
-[x] Styling text
-[x] Quoting text
-[x] Quoting code
-[x] External Links
-[x] Section links
-[x] Relative links 
-[x] Ordered and Unordered Lists
-[x] Task lists
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links 
+- [x] Ordered and Unordered Lists
+- [x] Task lists
